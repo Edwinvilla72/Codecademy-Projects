@@ -1,0 +1,118 @@
+/* left blue: #46E4F0 */
+/* right red: #DB5461 */
+/* con gray: #5b5b58 */
+/* white: #F1EDEE */
+/* dark mode black: #101010 */
+/* inner div gray: ##201f1f */
+
+body {
+    background-color: #101010;
+    font-family: 'Raleway'
+}
+
+h1 {
+    color: #46E4F0;
+}
+
+h2 {
+    font-family: 'Raleway';
+    color: #DB5461;
+}
+
+.header h1 {
+    color: #46E4F0;
+    text-align: center;
+}
+
+/* colors */
+.section {
+    border: solid 2px #5b5b58;
+    background-color: #201f1f;
+    margin: 64px 64px;
+    text-align: center;
+    font-family: "Consolas";
+    color: white;
+}
+
+.colors-section h2 {
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+.dark-mode-black {
+    background-color: #101010;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+.con-gray {
+    background-color: #5b5b58;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+.right-red {
+    background-color: #DB5461;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+.left-blue {
+    background-color: #46E4F0;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+.white {
+    background-color: #F1EDEE;
+    color: #5b5b58;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+/* fonts */
+.fonts {
+    margin: 64px 64px;
+    text-align: justify;
+}
+
+.raleway-font {
+    font-family: "Raleway";
+}
+
+.jetbrains-mono-font {
+    font-family: "JetBrains Mono";
+}
+
+.outfit-font {
+    font-family: "Outfit";
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.h1 {
+    margin-left: 64px;
+    text-align: justify;
+}
+
+.h2 {
+    margin-left: 64px;
+    text-align: justify;
+}
+
+.h3 {
+    margin-left: 64px;
+    text-align: justify;
+}
+
+.p {
+    margin-left: 64px;
+    text-align: justify;
+
+}

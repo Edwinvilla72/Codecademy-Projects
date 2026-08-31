@@ -1,0 +1,37 @@
+* {
+    text-align: justify;
+    color: #FFFFF3;
+    background-color: #2081c3;
+    font-family: "Outfit";
+}
+
+/* colors
+
+- background: #217A98
+- general-reference: #F4676E
+*/
+
+.header h1 {
+    text-align: center;
+    color: #80ECDA;
+}
+
+.header-tags h1 {
+    color: #80ECDA;
+}
+
+.general-reference h1 {
+    color: #F4676E;
+}
+
+.code-class {
+    font-family: "Jetbrains Mono";
+    border-top: solid 1px #9ad2ca;
+    border-radius: 5px;
+    background-color: #2A324B;
+    color: #D9BBF9;
+}
+
+.after-table-p {
+    color: #0f052b;
+}
