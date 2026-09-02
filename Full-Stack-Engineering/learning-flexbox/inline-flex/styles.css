@@ -1,0 +1,9 @@
+.container {
+    width: 200px;
+}
+
+.child {
+    display: inline-flex;
+    width: 90px;
+    height: auto;
+}

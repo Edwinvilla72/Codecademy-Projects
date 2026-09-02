@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: black;
+    opacity: 0.9;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    display: flex;
+    text-align: center;
+}
+
+/* nav bar */
+.nav {
+    display: inline-flex;
+    position: fixed;
+    height: 69px;
+    width: 100%;
+
+    background-color: black;
+    border-bottom: solid 1px seashell;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.nav-buttons {
+    display: inline-flex;
+    justify-content: space-around;
+    width: 400px;
+    list-style: none;
+}
+
+.nav-buttons li {}
+
+.nav-buttons a {
+    color: seashell;
+}
+
+/* banner */
+.banner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-bg {
+    height: 700px;
+}
+
+.banner-text-container {
+    position: absolute;
+    background-color: black;
+    width: 1200px;
+}
